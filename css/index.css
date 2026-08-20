@@ -3968,6 +3968,7 @@ figure.highlight pre .javascript .function {
   -ms-transition: filter 375ms ease-in 0.2s, -ms-transform 0.3s;
   transition: filter 375ms ease-in 0.2s, transform 0.3s;
   object-fit: cover;
+  object-position: center top;
 }
 .avatar-img img:hover {
   -webkit-transform: rotate(360deg);
